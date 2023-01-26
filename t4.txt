@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 fffffffffffffff
 jjjjjjjjjjjj
 jjjjjjj
+=======
+
+>>>>>>> e0c8f03014f80661ab30e670f18018d95b38ae51
 ddddddd ggggg hhhhh
 sssss gggg hhhh
 sssss hhhhh sssssss
