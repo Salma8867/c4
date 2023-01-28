@@ -1,16 +1,2 @@
 salma salma salma
 mubee mubee mubee
-
-
-
-
-
-to new test data
-
-
-
-
-to see soft link changes
-
-revert the changes
-
